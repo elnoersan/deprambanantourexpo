@@ -1,4 +1,4 @@
-# deprambanantourexpo
+# De Prambanan Tour
 Repository ini di push bertujuan untuk mendokumentasi tugas project akhir semester 3
 
 Website ini merupakan website E-Tourism Sederhana "De Prambanan Tour", yang lebih fokus pada penyampaian informasi singkat
